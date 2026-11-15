@@ -70,7 +70,6 @@ Navegador web.
 
 Copiar la carpeta del proyecto dentro de:
 
-C:\xampp\htdocs\agenda_contactos
 
 Iniciar Apache y MySQL desde XAMPP.
 

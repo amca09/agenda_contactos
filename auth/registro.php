@@ -45,8 +45,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             );
 
             // Guardamos al usuario
-            // La columna se llama password porque así está
-            // definida en la actividad y en la base de datos
             $insertar = $conexion->prepare(
                 "INSERT INTO usuarios
                 (nombre, correo, password)
